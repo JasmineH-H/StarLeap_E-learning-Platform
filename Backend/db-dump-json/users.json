@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "690c19ad1332418a1b3d2439",
+    "userName": "admin",
+    "password": "$2a$10$n2c/pJcQeB3JAr5yJ2A.0OyOdTuqDOC5L7iDWom2FznONMaV1fUh2",
+    "role": "admin",
+    "firstName": "Admin",
+    "lastName": "User",
+    "assignedInstructors": [],
+    "createdAt": "2025-11-06T03:44:45.426Z",
+    "updatedAt": "2025-11-06T03:44:45.426Z",
+    "__v": 0
+  },
+  {
+    "_id": "690c1b11560000901b6c4c01",
+    "userName": "student",
+    "password": "$2a$10$bEsLQK.fZLE/E5XIpnbKm.MzNQSY08bD4O5lOUmM7jmoBdEuyt7fm",
+    "role": "student",
+    "firstName": "Student",
+    "lastName": "User",
+    "birthDate": "2000-01-01T00:00:00.000Z",
+    "assignedInstructors": [
+      "691118c1bf0da602eacc7edd"
+    ],
+    "createdAt": "2025-11-06T03:50:41.402Z",
+    "updatedAt": "2025-11-11T21:48:15.756Z",
+    "__v": 1
+  },
+  {
+    "_id": "691118c1bf0da602eacc7edd",
+    "userName": "instructor",
+    "password": "$2a$10$56SFQJxKMs9CB91utdSv7e2yw9rX4EZkv8y2MvdkGKLNRPAjTEHVi",
+    "role": "instructor",
+    "firstName": "Instructor",
+    "lastName": "User",
+    "birthDate": "1990-01-01T00:00:00.000Z",
+    "assignedInstructors": [],
+    "createdAt": "2025-11-09T22:42:09.145Z",
+    "updatedAt": "2025-11-09T22:42:09.145Z",
+    "__v": 0
+  }
+]

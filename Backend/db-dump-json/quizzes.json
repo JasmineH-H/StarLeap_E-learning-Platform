@@ -1,0 +1,150 @@
+[
+  {
+    "_id": "6917fc90e89b3edf921a9e76",
+    "courseId": "6912adcf0cceb3d617e5d0c4",
+    "moduleId": "6912b0480cceb3d617e5d0ca",
+    "questions": [
+      {
+        "text": "Is this scene a public or private space?",
+        "options": [
+          {
+            "text": "Public",
+            "isCorrect": true,
+            "_id": "6917fc90e89b3edf921a9e78"
+          },
+          {
+            "text": "Private",
+            "isCorrect": false,
+            "_id": "6917fc90e89b3edf921a9e79"
+          }
+        ],
+        "_id": "6917fc90e89b3edf921a9e77",
+        "createdAt": "2025-11-15T04:07:44.319Z",
+        "updatedAt": "2025-11-23T08:44:19.543Z",
+        "imageUri": "/uploads/quiz-images/3e8fc078-8a60-4338-8824-4bf4b22d6086.png"
+      },
+      {
+        "text": "Is your bedroom a public or private space?",
+        "options": [
+          {
+            "text": "Public",
+            "isCorrect": false,
+            "_id": "6917fc90e89b3edf921a9e7c"
+          },
+          {
+            "text": "Private",
+            "isCorrect": true,
+            "_id": "6917fc90e89b3edf921a9e7d"
+          }
+        ],
+        "_id": "6917fc90e89b3edf921a9e7b",
+        "createdAt": "2025-11-15T04:07:44.319Z",
+        "updatedAt": "2025-11-23T08:47:16.680Z",
+        "imageUri": "/uploads/quiz-images/4c0f1279-c319-42cf-af03-a543d1814282.png"
+      },
+      {
+        "_id": "6922cd9543ac63c0f47fd658",
+        "text": "Are the following activities public or private?",
+        "options": [
+          {
+            "_id": "6922cd9543ac63c0f47fd659",
+            "text": "Public",
+            "isCorrect": false
+          },
+          {
+            "_id": "6922cd9543ac63c0f47fd65a",
+            "text": "Private",
+            "isCorrect": true
+          }
+        ],
+        "createdAt": "2025-11-23T09:02:51.170Z",
+        "imageUri": "/uploads/quiz-images/82ba1069-ac7b-4a5f-8c6d-5cd3f9736aa3.png",
+        "updatedAt": "2025-11-23T09:02:51.170Z"
+      }
+    ],
+    "createdAt": "2025-11-15T04:07:44.319Z",
+    "updatedAt": "2025-11-23T09:02:51.171Z",
+    "__v": 0
+  },
+  {
+    "_id": "6923e09c43ac63c0f47fd65e",
+    "courseId": "6912adcf0cceb3d617e5d0c4",
+    "moduleId": "691d6020f677ef939c54962e",
+    "questions": [
+      {
+        "_id": "6923e09c43ac63c0f47fd65b",
+        "text": "What type of touch is being shown in the image?",
+        "options": [
+          {
+            "_id": "6923e09c43ac63c0f47fd65c",
+            "text": "Friendly Touch",
+            "isCorrect": false
+          },
+          {
+            "_id": "6923e09c43ac63c0f47fd65d",
+            "text": "Fix-it Touch",
+            "isCorrect": true
+          },
+          {
+            "_id": "6923e0d4f677ef939c549689",
+            "text": "Loving Touch",
+            "isCorrect": false
+          }
+        ],
+        "createdAt": "2025-11-24T04:35:40.342Z",
+        "updatedAt": "2025-11-24T04:41:15.978Z",
+        "imageUri": "/uploads/quiz-images/4b3e562a-a7d3-4dbd-a6c3-34ef8f0b6f4d.png"
+      },
+      {
+        "_id": "6923e27b43ac63c0f47fd65f",
+        "text": "What type of touch is being shown in the image?",
+        "options": [
+          {
+            "_id": "6923e27b43ac63c0f47fd660",
+            "text": "Hurtful Touch",
+            "isCorrect": false
+          },
+          {
+            "_id": "6923e27b43ac63c0f47fd661",
+            "text": "Accidental Touch",
+            "isCorrect": true
+          },
+          {
+            "_id": "6923e27b43ac63c0f47fd662",
+            "text": "Confusing Touch",
+            "isCorrect": false
+          }
+        ],
+        "createdAt": "2025-11-24T04:44:49.417Z",
+        "imageUri": "/uploads/quiz-images/6d8564b4-9961-4195-bbd8-58edc136678e.png",
+        "updatedAt": "2025-11-24T04:44:49.417Z"
+      },
+      {
+        "_id": "6923e33e43ac63c0f47fd663",
+        "text": "What type of talk is being shown in the image?",
+        "options": [
+          {
+            "_id": "6923e33e43ac63c0f47fd664",
+            "text": "Problem Touch",
+            "isCorrect": true
+          },
+          {
+            "_id": "6923e33e43ac63c0f47fd665",
+            "text": "Hurtful Touch",
+            "isCorrect": false
+          },
+          {
+            "_id": "6923e33e43ac63c0f47fd666",
+            "text": "Confusing Talk",
+            "isCorrect": false
+          }
+        ],
+        "createdAt": "2025-11-24T04:47:51.198Z",
+        "imageUri": "/uploads/quiz-images/1b01c8a9-ce33-42c6-96f3-72e1f1d1e013.png",
+        "updatedAt": "2025-11-24T04:47:51.198Z"
+      }
+    ],
+    "createdAt": "2025-11-24T04:35:40.342Z",
+    "updatedAt": "2025-11-24T04:47:51.199Z"
+  }
+]

@@ -1,0 +1,163 @@
+[
+    {
+      "path": "assets/images/Maps",
+      "files": [
+        {
+          "type": "image",
+          "key": "map-01",
+          "url": "/Map_01.png"
+        },
+        {
+          "type": "image",
+          "key": "map-02",
+          "url": "/Map_02.png"
+        },
+        {
+          "type": "image",
+          "key": "map-03",
+          "url": "/Map_03.png"
+        },
+        {
+          "type":"image",
+          "key":"return-button",
+          "url":"/return-button.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/images/Level_Elements",
+      "files": [
+        {
+          "type": "image",
+          "key": "number-0",
+          "url": "/0.png"
+        },
+        {
+          "type": "image",
+          "key": "number-1",
+          "url": "/1.png"
+        },
+        {
+          "type": "image",
+          "key": "number-2",
+          "url": "/2.png"
+        },
+        {
+          "type": "image",
+          "key": "number-3",
+          "url": "/3.png"
+        },
+        {
+          "type": "image",
+          "key": "number-4",
+          "url": "/4.png"
+        },
+        {
+          "type": "image",
+          "key": "number-5",
+          "url": "/5.png"
+        },
+        {
+          "type": "image",
+          "key": "number-6",
+          "url": "/6.png"
+        },
+        {
+          "type": "image",
+          "key": "number-7",
+          "url": "/7.png"
+        },
+        {
+          "type": "image",
+          "key": "number-8",
+          "url": "/8.png"
+        },
+        {
+          "type": "image",
+          "key": "number-9",
+          "url": "/9.png"
+        },
+        {
+          "type": "image",
+          "key": "arrows",
+          "url": "/Arrows.png"
+        },
+        {
+          "type": "image",
+          "key": "button-00",
+          "url": "/Button_00.png"
+        },
+        {
+          "type": "image",
+          "key": "button-01",
+          "url": "/Button_01.png"
+        },
+        {
+          "type": "image",
+          "key": "button-02",
+          "url": "/Button_02.png"
+        },
+        {
+          "type": "image",
+          "key": "button-03",
+          "url": "/Button_03.png"
+        }
+      ]
+    },
+    {
+      "path":"assets/images/MainMenu",
+      "files":[
+        {
+          "type":"image",
+          "key":"MainMenu-bg",
+          "url":"/MainMenuBackground.png"
+        },
+        {
+          "type":"image",
+          "key":"thumbnail-00",
+          "url":"/thumbnail-scratch-coding.png"
+        },
+        {
+          "type":"image",
+          "key":"thumbnail-01",
+          "url":"/thumbnail-digital-art.png"
+        },
+        {
+          "type":"image",
+          "key":"thumbnail-02",
+          "url":"/thumbnail-python.png"
+        },
+        {
+          "type":"image",
+          "key":"thumbnail-03",
+          "url":"/thumbnail-pixel-art.png"
+        }
+      ]
+    },
+    {
+      "path":"assets/images/Quiz",
+      "files":[
+        {
+          "type":"image",
+          "key":"quiz-bg",
+          "url":"/quiz-bg.png"
+        },
+        {
+          "type":"image",
+          "key":"quiz-intro-bg",
+          "url":"/quiz-intro-bg.png"
+        },
+        {
+          "type":"image",
+          "key":"btn1",
+          "url":"/btn1.png"
+        },
+        {
+          "type":"image",
+          "key":"btn2",
+          "url":"/btn2.png"
+        }
+      ]
+    }
+
+]

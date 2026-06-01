@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "6913a620c2d0c36bbcb91ac6",
+    "filename": "Unit 1 - Public vs. Private - Teaching Notes.pdf",
+    "type": "pdf",
+    "storageType": "local",
+    "url": "/uploads/courses/6912adcf0cceb3d617e5d0c4/modules/6912b0480cceb3d617e5d0ca/273b9d30-a3a0-4ddb-bf8a-835d20822597.pdf",
+    "cloudKey": null,
+    "courseId": "6912adcf0cceb3d617e5d0c4",
+    "createdAt": "2025-11-11T21:09:52.687Z",
+    "updatedAt": "2025-11-11T21:09:52.687Z",
+    "__v": 0
+  },
+  {
+    "_id": "6913add7c2d0c36bbcb91ae6",
+    "filename": "Unit 1 - Public vs. Private - Pre-Lesson Assessment.pdf",
+    "type": "pdf",
+    "storageType": "local",
+    "url": "/uploads/courses/6912adcf0cceb3d617e5d0c4/modules/6912b0480cceb3d617e5d0ca/dfdd59c5-a4d2-4bfb-b1fa-a2e5de816df0.pdf",
+    "cloudKey": null,
+    "courseId": "6912adcf0cceb3d617e5d0c4",
+    "createdAt": "2025-11-11T21:42:47.608Z",
+    "updatedAt": "2025-11-11T21:42:47.608Z",
+    "__v": 0
+  },
+  {
+    "_id": "6923de0035e612b459bc1865",
+    "filename": "Unit 2 - Types of Touch - Presentation.pdf",
+    "type": "pdf",
+    "storageType": "local",
+    "url": "/uploads/courses/6912adcf0cceb3d617e5d0c4/modules/691d6020f677ef939c54962e/2dc1bf8d-f38d-497b-8118-9f0414a64045.pdf",
+    "cloudKey": null,
+    "courseId": "6912adcf0cceb3d617e5d0c4",
+    "createdAt": "2025-11-24T04:24:32.593Z",
+    "updatedAt": "2025-11-24T04:24:32.593Z",
+    "__v": 0
+  },
+  {
+    "_id": "6923de2735e612b459bc1871",
+    "filename": "Unit 3 - Relationships - Presentation.pdf",
+    "type": "pdf",
+    "storageType": "local",
+    "url": "/uploads/courses/6912adcf0cceb3d617e5d0c4/modules/691d6546f677ef939c549637/0e49c232-8ff5-47ff-bb12-8da76ef396d7.pdf",
+    "cloudKey": null,
+    "courseId": "6912adcf0cceb3d617e5d0c4",
+    "createdAt": "2025-11-24T04:25:11.887Z",
+    "updatedAt": "2025-11-24T04:25:11.887Z",
+    "__v": 0
+  }
+]

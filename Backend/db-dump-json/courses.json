@@ -1,0 +1,75 @@
+[
+  {
+    "_id": "6912adcf0cceb3d617e5d0c4",
+    "title": "test",
+    "description": "NA",
+    "modules": [
+      {
+        "title": "Unit1",
+        "order": 1,
+        "_id": "6912b0480cceb3d617e5d0ca",
+        "createdAt": "2025-11-11T03:40:56.634Z",
+        "updatedAt": "2025-11-13T01:58:26.977Z",
+        "materials": [
+          {
+            "materialId": "6913a620c2d0c36bbcb91ac6",
+            "type": "pdf",
+            "name": "Unit 1 - Public vs. Private - Teaching Notes.pdf",
+            "_id": "69153b422b38a306421a63b4"
+          },
+          {
+            "materialId": "6913add7c2d0c36bbcb91ae6",
+            "type": "pdf",
+            "name": "Unit 1 - Public vs. Private - Pre-Lesson Assessment.pdf",
+            "_id": "69153b422b38a306421a63b5"
+          }
+        ],
+        "crystals": 3,
+        "isModuleOpen": true
+      },
+      {
+        "title": "Unit2",
+        "order": 2,
+        "_id": "691d6020f677ef939c54962e",
+        "createdAt": "2025-11-18T00:00:00.000Z",
+        "updateAt": "2025-11-19T00:00:00.000Z",
+        "crystals": 0,
+        "isModuleOpen": true,
+        "materials": [
+          {
+            "materialId": "6923de0035e612b459bc1865",
+            "type": "pdf",
+            "name": "Unit 2 - Types of Touch - Presentation.pdf"
+          }
+        ],
+        "updatedAt": "2025-11-24T05:00:42.994Z"
+      },
+      {
+        "title": "Unit3",
+        "order": 3,
+        "crystals": 0,
+        "_id": "691d6546f677ef939c549637",
+        "createdAt": "2025-11-19T01:58:26.977Z",
+        "updatedAt": "2025-11-20T01:58:26.977Z",
+        "materials": [
+          {
+            "materialId": "6923de2735e612b459bc1871",
+            "type": "pdf",
+            "name": "Unit 3 - Relationships - Presentation.pdf"
+          }
+        ],
+        "isModuleOpen": false
+      }
+    ],
+    "isActive": true,
+    "difficulty": "beginner",
+    "createdAt": "2025-11-11T03:30:23.432Z",
+    "updatedAt": "2025-11-24T05:00:42.995Z",
+    "__v": 1,
+    "thumbnail": {
+      "url": "/uploads/thumbnails/246cd7aa-c232-4345-b8f4-fad4d5e86359.png",
+      "cloudKey": null,
+      "filename": "145_transverse.png"
+    }
+  }
+]

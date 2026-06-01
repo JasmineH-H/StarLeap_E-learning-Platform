@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "6923cbff35e612b459bc0e83",
+    "userId": "690c1b11560000901b6c4c01",
+    "crystal": 6,
+    "moduleCompleted": [
+      "6912b0480cceb3d617e5d0ca",
+      "691d6020f677ef939c54962e"
+    ],
+    "createdAt": "2025-11-24T03:07:43.743Z",
+    "updatedAt": "2025-11-24T04:50:24.102Z",
+    "__v": 1
+  }
+]

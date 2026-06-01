@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Tektur', sans-serif;
+  }
+
+  button {
+    cursor: pointer;
+  }
+}
+
+@keyframes floatRocket {
+  0% { transform: translateY(0px); }
+  25% { transform: translateY(-10px); }
+  75% { transform: translateY(10px); }
+  100% { transform: translateY(0px); }
+}
+
+.rocket-float {
+  animation: floatRocket 3s ease-in-out infinite;
+}
+
+@keyframes scrollSpace {
+  0% { background-position: 0 0; }
+  100% { background-position: -800px 0; }
+}
+
+.space-bg-scroll {
+  background-image: url('/assets/images/Quiz/quiz-bg.png') !important;
+  background-repeat: repeat-x;
+  background-size: cover;
+  animation: scrollSpace 25s linear infinite;
+}
+

@@ -1,0 +1,99 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "levelNumber": 0,
+      "buttonIndex": 1,
+      "x": 100,
+      "y": 280,
+      "isActive": false,
+      "isCompleted": true
+    },
+    {
+      "id": 2,
+      "levelNumber": 1,
+      "buttonIndex": 2,
+      "x": 220,
+      "y": 360,
+      "isActive": false,
+      "isCompleted": true
+    },
+    {
+      "id": 3,
+      "levelNumber": 2,
+      "buttonIndex": 3,
+      "x": 340,
+      "y": 310,
+      "isActive": false,
+      "isCompleted": true
+    },
+    {
+      "id": 4,
+      "levelNumber": 3,
+      "buttonIndex": 0,
+      "x": 460,
+      "y": 440,
+      "isActive": false,
+      "isCompleted": false
+    },
+    {
+      "id": 5,
+      "levelNumber": 4,
+      "buttonIndex": 1,
+      "x": 580,
+      "y": 220,
+      "isActive": false,
+      "isCompleted": false
+    },
+    {
+      "id": 6,
+      "levelNumber": 5,
+      "buttonIndex": 2,
+      "x": 700,
+      "y": 320,
+      "isActive": false,
+      "isCompleted": false
+    },
+    {
+      "id": 7,
+      "levelNumber": 6,
+      "buttonIndex": 3,
+      "x": 820,
+      "y": 420,
+      "isActive": false,
+      "isCompleted": false
+    },
+    {
+      "id": 8,
+      "levelNumber": 7,
+      "buttonIndex": 0,
+      "x": 940,
+      "y": 460,
+      "isActive": false,
+      "isCompleted": false
+    },
+    {
+      "id": 9,
+      "levelNumber": 8,
+      "buttonIndex": 1,
+      "x": 1060,
+      "y": 420,
+      "isActive": false,
+      "isCompleted": false
+    },
+    {
+      "id": 10,
+      "levelNumber": 9,
+      "buttonIndex": 2,
+      "x": 1180,
+      "y": 380,
+      "isActive": false,
+      "isCompleted": false
+    }
+  ],
+  "mapSettings": {
+    "title": "CurioCamp - Adventure Map",
+    "description": "Navigate through the learning adventure!",
+    "backgroundKey": "menu-bg"
+  }
+} 
